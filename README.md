@@ -1,7 +1,7 @@
 # Hellow Microverse
 > This is a first project with Microverse.
 
-![screenshot](file:///C:/Users/fatma%20awd/OneDrive/%D8%B3%D8%B7%D8%AD%20%D8%A7%D9%84%D9%85%D9%83%D8%AA%D8%A8/New%20folder%20(4)/Hellow-Microverse/index.html)
+![screenshot](https://github.com/mohamedelshamy55/readme-template/blob/mohamedelshamy55-patch-1/site_screenshote.png)
 
 
 ## Built With
