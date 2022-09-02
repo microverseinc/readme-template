@@ -1,56 +1,38 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
-# Project Name
-
-> Description the project.
 
 
-## Built With
+**Project Name : DESKTOP version of Profile**
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+> This project is a desktop version of the portfolio profile. FIGMA template is introduced to build the project.
+> Transition and Animation properties are also introduced to enrich the look-up of the project.   
 
 
-## Getting Started
+**Built With**
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+- HTML and CSS
+- Linters
+- GitHub
 
 
+**Getting Started**
+
+All the checks are done with linters.HTML and CSS files are written following FIGMA desisn.
+Always check the output whether it is matching withe required one.
 
 ## Authors
 
-👤 **Author1**
+👤 **Zied Ben Amor**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: https://github.com/zied2112
+- Twitter: https://twitter.com/AmorZied1996
+- LinkedIn: https://www.linkedin.com/in/zied-ben-amor-924908149/
+- e-mail: benamor.zied@isitc.u-sousse.tn
 
-👤 **Author2**
+👤 **Tanusri Ghosh**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: https://github.com/chuaindia
+- Twitter: https://twitter.com/chuaghosh25
+- LinkedIn: https://www.linkedin.com/in/tanusri-ghosh-2a56b814/
+- e-mail: tghosh25@gmail.com
 
 ## 🤝 Contributing
 
@@ -61,12 +43,6 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
