@@ -48,7 +48,7 @@ For example: Delete the testing section if the currect project doesn't require t
 
 > Describe your project in 1 or 2 sentences.
 
-[High level description]
+**[High level description]**
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -109,7 +109,7 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need **[describe prerequisites]**
+In order to run this project you need **[describe prerequisites]**:
 
 ```sh
  npm install --global yarn
@@ -117,11 +117,11 @@ In order to run this project you need **[describe prerequisites]**
 
 ### Setup
 
-Clone this repository to a desired folder:
+Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone my-project.git
+  git clone git@github.com:myaccount/my-project.git
 ```
 
 ### Install
@@ -212,7 +212,7 @@ Give a ⭐️ if you like this project!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase
+> Give credit to everyone who inspired your codebase.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -220,7 +220,7 @@ Give a ⭐️ if you like this project!
 
 ## ❓ FAQ <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project
+> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - Question 1
 
