@@ -188,6 +188,8 @@ You can deploy this project using **[deployment service]**:
 - [ ] Todo 2
 - [ ] Todo 2
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
