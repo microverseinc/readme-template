@@ -22,24 +22,25 @@ For example: Delete the testing section if the currect project doesn't require t
 
 # 📗 Table of Contents
 
-- [About the Project](#about-project)
-  - [Built With](#built-with)
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [Live Demo](#live-demo)
-- [Getting Started](#getting-started)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
-- [Authors](#authors)
-- [Contributing](#contributing)
-- [Show your support](#support)
-- [Acknowledgements](#acknowledgements)
-- [FAQ](#faq)
-- [License](#license)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -179,7 +180,7 @@ You can deploy this project using **[deployment service]**:
 
 <!-- FUTURE FEATURES -->
 
-## 🧭 Future Features
+## 🔭 Future Features <a name="future-features"></a>
 
 > Describe 1 - 3 features you will add to the project.
 
@@ -215,7 +216,7 @@ Give a ⭐️ if you like this project!
 
 <!-- FAQ (optional) -->
 
-## ❓ FAQ
+## ❓ FAQ <a name="faq"></a>
 
 > Add at least 2 questions new developers would ask when they decide to use your project
 
