@@ -112,7 +112,7 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need **[describe prerequisites]**:
 
 ```sh
- npm install --global yarn
+ gem install rails
 ```
 
 ### Setup
@@ -130,7 +130,7 @@ Install this project with **[package manager]**:
 
 ```sh
   cd my-project
-  yarn install
+  gem install
 
 ```
 
@@ -139,7 +139,7 @@ Install this project with **[package manager]**:
 To run the project, execute the following command:
 
 ```sh
-  yarn dev
+  rails server
 ```
 
 ### Run tests
@@ -147,7 +147,7 @@ To run the project, execute the following command:
 To run tests, run the following command:
 
 ```sh
-  yarn test
+  bin/rails test test/models/article_test.rb
 ```
 
 ### Deployment
