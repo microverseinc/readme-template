@@ -99,6 +99,10 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
+- A code editor (preferably VSCode)
+- A browser
+- Node.js (to run javascript files locally)
+- LiveServer (to load javascript modules)
 
 <!--
 Example command:
@@ -109,8 +113,12 @@ Example command:
  -->
 
 ### Setup
-
 Clone this repository to your desired folder:
+
+- Open git bash on local computer
+- clone the repo with: 
+
+git clone from ```https://github.com/0sugo/math-magician.git```
 
 <!--
 Example commands:
@@ -125,6 +133,9 @@ Example commands:
 
 Install this project with:
 
+- run ```cd math-magicians``` to enter the project folder
+- run ```npm i``` to install all dependencies
+
 <!--
 Example command:
 
@@ -137,6 +148,9 @@ Example command:
 ### Usage
 
 To run the project, execute the following command:
+
+- run ```npm start``` to launch the application
+- enjoy application
 
 <!--
 Example command:
