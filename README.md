@@ -118,7 +118,7 @@ Clone this repository to your desired folder:
 - Open git bash on local computer
 - clone the repo with: 
 
-git clone from ```https://github.com/0sugo/math-magician.git```
+git clone from ```https://```
 
 <!--
 Example commands:
@@ -133,7 +133,7 @@ Example commands:
 
 Install this project with:
 
-- run ```cd math-magicians``` to enter the project folder
+- run ```cd ``` to enter the project folder
 - run ```npm i``` to install all dependencies
 
 <!--
@@ -231,8 +231,6 @@ Example:
 
 > I'm thankful to Microverse for providing a study platform which guided me through this project and to my coding partners at Microverse for the collaborative effort. 
 
-I would like to thank...
-
 <!-- FAQ (optional) -->
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
@@ -250,8 +248,6 @@ I would like to thank...
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
-
-This project is [MIT](./LICENSE) licensed.
 
 > This project is [MIT](./LICENSE) licensed.
 
