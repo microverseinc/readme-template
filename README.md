@@ -153,6 +153,10 @@ Example command:
 
 To run tests, run the following command:
 
+- run ```npm test```
+- Enjoy the green checkmarks
+
+
 <!--
 Example command:
 
