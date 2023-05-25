@@ -75,8 +75,6 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
 - [Live Demo Link](https://yourdeployedapplicationlink.com)
 
 
@@ -91,8 +89,9 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 - A code editor (preferably VSCode)
 - A browser
-- Node.js (to run javascript files locally)
+- Node.js (version 12 or higher to run javascript files locally)
 - LiveServer (to load javascript modules)
+- npm (version 6 or higher) or Yarn (version 1.22 or higher)
 
 <!--
 Example command:
